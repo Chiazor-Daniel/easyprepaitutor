@@ -1,0 +1,5 @@
+{
+  "name": "AI Whiteboard Tutor",
+  "description": "An interactive math tutoring application that simulates a real-world teacher experience using a digital whiteboard and step-by-step AI-generated lessons.",
+  "requestFramePermissions": []
+}
